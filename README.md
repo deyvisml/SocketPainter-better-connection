@@ -1,3 +1,5 @@
+## Creditos al creador original
+
 # SocketPainter
 A Java project allowing users to draw shapes and send messages using [Sockets](https://docs.oracle.com/javase/7/docs/api/java/net/Socket.html), 
 [Threads](https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html),
